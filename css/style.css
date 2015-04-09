@@ -32,7 +32,7 @@ body a{
 	-ms-transition:0.5s all;
 }
 .header {
-	background: #2c3e50;
+	background: #E6C730;
 	padding: 0.5em 0;
 }
 .head-left {
@@ -105,7 +105,7 @@ i.mail {
 	margin-right: 0.5em;
 }
 ul.number li a, ul.number li span {
-	color: #758594;
+	color: #fff;
 	padding: 0.4em 0;
 	display: block;
 	font-size: 1em;
@@ -190,7 +190,7 @@ ul a:focus {
 	opacity: 0;
 }
 .top-slide {
-	background: url(../images/bann2.jpg) no-repeat;
+	background: url(../images/hypatian_banner6.jpg) no-repeat;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -207,7 +207,7 @@ ul a:focus {
 }
 .top-slide h1 {
 	font-size: 4.2em;
-	color: #000;
+	color: #fff;
 	font-weight: 400;
 	font-family: 'Varela Round', sans-serif;
 }
@@ -305,7 +305,7 @@ ul.wmuSliderPagination {
 	background: #E6C730 ;
 	padding: 1.5em 0;
 	text-align: center;
-	color: #000000;
+	color: #fff;
 	font-size: 1.5em;
 	text-align: center;
 	font-weight: 400;
@@ -314,7 +314,7 @@ ul.wmuSliderPagination {
 	background: #3FD91C;
 	padding: 1.5em 0;
 	text-align: center;
-	color: #000000;
+	color: #fff;
 	font-size: 1.5em;
 	text-align: center;
 	font-weight: 400;
@@ -323,14 +323,37 @@ ul.wmuSliderPagination {
 	background: #0000D4;
 	padding: 1.5em 0;
 	text-align: center;
-	color: #000000;
+	color: #fff;
 	font-size: 1.5em;
 	text-align: center;
 	font-weight: 400;
 }
 .cae-top {
 	padding: 7em 0;
-	border-bottom: 1px solid #758594;
+	border-bottom: 1px solid #3FD91C;
+}
+i.people {
+	width: 126px;
+	height: 126px;
+	background: url(../images/people_icon.png)no-repeat;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+i.idea {
+	width: 126px;
+	height: 126px;
+	background: url(../images/idea_icon.png)no-repeat;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+i.connections {
+	width: 126px;
+	height: 126px;
+	background: url(../images/connections_icon.png)no-repeat;
+	display: inline-block;
+	vertical-align: middle;
 }
 i.ate {
 	width: 126px;
@@ -388,7 +411,7 @@ i.qui {
 	font-weight: 400;
 }
 .made {
-	padding: 5em 0;
+	/*padding: 5em 0; */
 }
 .made-left {
 	padding: 0;
@@ -528,7 +551,7 @@ i.qui {
 	padding: 1em;
 }
 .footer h4 {
-	color: #758594;
+	color: #0000D4;
 	font-size: 1.4em;
 	font-weight: 700;
 	margin: 0 0 1em;
