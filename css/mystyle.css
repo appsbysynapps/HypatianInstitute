@@ -1,0 +1,24 @@
+.a-head{
+    color: #0000D4 !important;
+    text-transform: uppercase !important;
+    font-weight: normal !important;
+    font-size: 1.25em !important;
+    text-align: left !important;
+}
+    
+.b-head{
+    color: #0000D4 !important;
+    text-transform: uppercase !important;
+    font-weight: bold !important;
+    font-size: 1em !important;
+    text-align: left !important;
+}
+    
+.c-head{
+    color: #3FD91C !important;
+    text-transform: uppercase !important;
+    font-weight: bold !important;
+    font-size: 1em !important;
+    text-align: left !important;
+}
+    

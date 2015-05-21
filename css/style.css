@@ -386,7 +386,7 @@ i.qui {
 }
 .case p {
 	font-size: 1.1em;
-	color: #758594;
+	color: #000063;
 	line-height: 1.8em;
 	font-weight: 400;
 }
@@ -405,7 +405,7 @@ i.qui {
 	font-weight: 400;
 }
 .made p {
-	color: #758594;
+	color: #000063;
 	font-size: 1.1em;
 	line-height: 1.8em;
 	margin: 1em 0;
@@ -999,7 +999,7 @@ i.fav {
 .about-main p {
 	font-size: 1.1em;
 	line-height: 1.8em;
-	color: #758594;
+	color: #000063;
 	margin-top: 0.8em;
 }
 .about-text {
@@ -1282,7 +1282,7 @@ div#portfoliolist {
 	width: 100%;
 	margin-top: 0.5em;
 	font-size: 1.2em;
-	color: #758594;
+	color: #000063;
 } 
 .service-grid h3 {
 	margin: 0;
@@ -1298,7 +1298,7 @@ div#portfoliolist {
 	font-size: 1.1em;
 	line-height: 1.8em;
 	font-weight: 400;
-	color: #758594;
+	color: #000063;
 	margin: 1em 0;
 }
 .service-grids{
@@ -1418,11 +1418,11 @@ p.comment-form-author {
 .contact_address, .contact_email {
 	overflow: hidden;
 	font-size: 1.1em;
-	color: #758594;
+	color: #000063;
 	line-height: 1.8em;
 }
 .contact_email a{
-	color: #999;
+	color: #000063;
 	text-decoration:none;
 }
 .contact_email a:hover{
@@ -1967,7 +1967,7 @@ h3.c-head {
 	padding: 1.3em 0;
 	font-size: 1em;
 	overflow: hidden;
-	height: 55px;
+	height: 55px
 }
 .bottom-slide-1 {
 	padding: 1.3em 0;
@@ -2426,4 +2426,5 @@ h3.c-head {
 a.b-home {
 	font-size: 0.8125em;
 }
-}
+
+
