@@ -1936,6 +1936,10 @@ h3.c-head {
 	float: left;
 	display: none;
 }
+.head-right {
+	float: right;
+	display: none;
+}
 .search2 {
 	display: none;
 }
