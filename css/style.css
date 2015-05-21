@@ -197,6 +197,8 @@ ul a:focus {
 	-o-background-size: cover;
 	-ms-background-size: cover;
 	min-height: 500px;
+	background-size: 100%;
+    background-position: center;
 }
 .top-slide h2 {
 	color: #E6C730 ;
