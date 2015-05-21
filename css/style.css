@@ -132,7 +132,7 @@ ul.number li a:hover{
 	position: relative;
 	display: inline-block;
 	outline: none;
-	color: #0D2075;
+	color: #3FD91C;
 	text-decoration: none;
 	text-transform: uppercase;
 	letter-spacing: 1px;
@@ -174,7 +174,7 @@ ul a:focus {
 	text-decoration: none;
 }
 .cl-effect-15 a::before {
-	color: #0D2075;
+	/*color: #0D2075;*/
 	content: attr(data-hover);
 	position: absolute;
 	-webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
