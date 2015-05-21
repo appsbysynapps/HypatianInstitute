@@ -1363,9 +1363,9 @@ p.comment-form-author {
 .contact-form input[type="text"] {
 	padding: 10px;
 	width: 95%;
-	color: #9198A3;
+	color: #000;
 	font-size: 0.9em;
-	background: #000;
+	background: #E6C730;
 	outline: none;
 	display: block;
 	border: 1px solid #eee;
@@ -1374,10 +1374,10 @@ p.comment-form-author {
 	padding: 10px;
 	display: block;
 	width: 95%;
-	background: #000;
+	background: #E6C730;
 	border: 1px solid #eee;
 	outline: none;
-	color: #9198A3;
+	color: #000;
 	font-size: 0.9em;
 	-webkit-appearance: none;
 	resize: none;
