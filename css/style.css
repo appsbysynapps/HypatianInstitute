@@ -190,14 +190,13 @@ ul a:focus {
 	opacity: 0;
 }
 .top-slide {
-	background: url(../images/hypatian_banner6.jpg) no-repeat;
+	background: url(../images/hypatian_institute-twitter-banner.jpg) no-repeat;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	-ms-background-size: cover;
 	min-height: 500px;
-	
 }
 .top-slide h2 {
 	color: #E6C730 ;
