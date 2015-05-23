@@ -174,7 +174,7 @@ ul a:focus {
 	text-decoration: none;
 }
 .cl-effect-15 a::before {
-	/*color: #0D2075;*/
+	color: #449E58;
 	content: attr(data-hover);
 	position: absolute;
 	-webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
@@ -312,7 +312,7 @@ ul.wmuSliderPagination {
 	font-weight: 400;
 }
 .bottom-slide-1 {
-	background: #3FD91C;
+	background: #449E58;
 	padding: 1.5em 0;
 	text-align: center;
 	color: #fff;
