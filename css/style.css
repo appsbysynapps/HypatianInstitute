@@ -197,7 +197,7 @@ ul a:focus {
 	-o-background-size: cover;
 	-ms-background-size: cover;
 	min-height: 500px;
-	background-size: 100%;
+	background-size: 90%;
     background-position: center;
 }
 .top-slide h2 {
@@ -331,7 +331,7 @@ ul.wmuSliderPagination {
 }
 .cae-top {
 	padding: 7em 0;
-	border-bottom: 1px solid #3FD91C;
+	/*border-bottom: 1px solid #3FD91C;*/
 }
 i.people {
 	width: 126px;
