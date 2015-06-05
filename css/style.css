@@ -336,7 +336,8 @@ ul.wmuSliderPagination {
 i.people {
 	width: 126px;
 	height: 126px;
-	background: url(../images/people_icon.png)no-repeat;
+	background: url(../images/hypatian_professional_growth.png)no-repeat;
+	background-size: 126px 126px;
 	display: inline-block;
 	vertical-align: middle;
 }
@@ -344,7 +345,8 @@ i.people {
 i.idea {
 	width: 126px;
 	height: 126px;
-	background: url(../images/idea_icon.png)no-repeat;
+	background: url(../images/hypatian_key_to_innovation.png)no-repeat;
+	background-size: 126px 126px;
 	display: inline-block;
 	vertical-align: middle;
 }
@@ -352,7 +354,8 @@ i.idea {
 i.connections {
 	width: 126px;
 	height: 126px;
-	background: url(../images/connections_icon.png)no-repeat;
+	background: url(../images/hypatian_unlock_potential.png)no-repeat;
+	background-size: 126px 126px;
 	display: inline-block;
 	vertical-align: middle;
 }
