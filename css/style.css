@@ -1341,12 +1341,6 @@ a.b-home:hover{
 .contact-page{
 	padding:3em 0;
 }
-h3.c-head {
-	color: #E6C730 ;
-	font-size: 2em;
-	margin-bottom: 1em;
-	font-weight: 600;
-}
 .singel_right {
 	margin-top: 0em;
 }
@@ -1663,9 +1657,6 @@ ul.number1 li a, ul.number1 li span {
 .services-top-grids {
 	padding: 1em 0 1em;
 }
-h3.c-head {
-	font-size: 1.7em;
-}
 .span_2_of_contact_right h3 {
 	font-size: 1.2em;
 }
@@ -1893,9 +1884,6 @@ a.more {
 .service-grid h3 {
 	font-size: 1em;
 }
-h3.c-head {
-	font-size: 1.5em;
-}
 .contact-form input[type="submit"] {
 	padding: 8px 18px;
 	font-size: 0.9em;
@@ -2050,9 +2038,6 @@ h3.c-head {
 	overflow: hidden;
 	height: 68px;
 }
-h3.c-head {
-	font-size: 1.4em;
-}
 .about-main h3 {
 	font-size: 1.4em;
 }
@@ -2166,9 +2151,6 @@ h3.c-head {
 	width: 100%;
 	float: none;
 	margin-right: 0%;
-}
-h3.c-head {
-	font-size: 1.3em;
 }
 .contact_grid {
 	display: block;
@@ -2378,9 +2360,6 @@ ul.number1 li a, ul.number1 li span {
 .service-grid p {
 	font-size: 0.85em;
 	height: 64px;
-}
-h3.c-head {
-	font-size: 1.2em;
 }
 .contact-form input[type="text"] {
 	font-size: 0.85em;
